@@ -21,9 +21,10 @@ tf-idf：increase the weight of terms which are specific and decrease the weight
 |  
 use **model**, such as sentiment analysis, use classification model, to predict positive or negative
 
-Below is my R and Python code:
+**Below is my R and Python code:**
 
 **Sentiment Analysis and related**
+
 [Text Mining Series 1.1: Sentiment Analysis in Movie Review Dataset in English by R]
 (https://github.com/yishi/my_R_code/blob/master/sentiment%20analysis%20for%20English%20text)
 
@@ -33,6 +34,7 @@ Below is my R and Python code:
 [Text Mining Series 1.3: Predict Defect Name From Defect Description Text in Chinese by Python](http://nbviewer.jupyter.org/github/yishi/Text-Mining-Series/blob/master/Text_mining_series_1.ipynb)
 
 **Spell Checker**
+
 [Text Mining Series 2.1: Make a Spell Checker for English Text by Python](http://nbviewer.jupyter.org/github/yishi/Text-Mining-Series/blob/master/Text_mining_series_2.ipynb)
 
 [Text Mining Series 2.2: Make a Spell Checker for English and Chinese Text by R](https://github.com/yishi/my_R_code/blob/master/spell%20checker%20for%20English%20and%20Chinese%20Text)
