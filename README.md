@@ -23,12 +23,18 @@ use **model**, such as sentiment analysis, use classification model, to predict 
 
 Below is my R and Python code:
 
-[Text Mining Series 1: Predict Defect Name From Defect Description Text in Chinese by R]
+**Sentiment Analysis and related**
+[Text Mining Series 1.1: Sentiment Analysis in Movie Review Dataset in English by R]
+(https://github.com/yishi/my_R_code/blob/master/sentiment%20analysis%20for%20English%20text)
+
+[Text Mining Series 1.2: Predict Defect Name From Defect Description Text in Chinese by R]
 (https://github.com/yishi/my_R_code/blob/master/predict%20defect%20name%20for%20Chinese%20text)
 
-[Text Mining Series 1: Predict Defect Name From Defect Description Text in Chinese by Python](http://nbviewer.jupyter.org/github/yishi/Text-Mining-Series/blob/master/Text_mining_series_1.ipynb)
+[Text Mining Series 1.3: Predict Defect Name From Defect Description Text in Chinese by Python](http://nbviewer.jupyter.org/github/yishi/Text-Mining-Series/blob/master/Text_mining_series_1.ipynb)
 
-[Text Mining Series 2: Sentiment Analysis in Movie Review Dataset in English by R]
-(https://github.com/yishi/my_R_code/blob/master/sentiment%20analysis%20for%20English%20text)
+**Spell Checker**
+[Text Mining Series 2.1: Make a Spell Checker for English Text by Python](http://nbviewer.jupyter.org/github/yishi/Text-Mining-Series/blob/master/Text_mining_series_2.ipynb)
+
+[Text Mining Series 2.2: Make a Spell Checker for English and Chinese Text by R](https://github.com/yishi/my_R_code/blob/master/spell%20checker%20for%20English%20and%20Chinese%20Text)
 
 
